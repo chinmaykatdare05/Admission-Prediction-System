@@ -9,3 +9,15 @@ Furthermore, admission committees may struggle to evaluate a large volume of app
 Thus, there is a pressing need for an automated Admission Prediction System that can streamline the application process, provide transparency to applicants regarding their likelihood of acceptance, and assist admission committees in making informed decisions based on comprehensive data analysis and predictive modeling.
 
 This system utilizes machine learning techniques to analyze various factors impacting admission decisions, thereby predicting an applicant's chance of admission with greater accuracy and consistency. By leveraging such a system, educational institutions can enhance the efficiency and fairness of their admission processes, while applicants can benefit from clear insights into their admission prospects.
+
+---
+
+### Libraries Required
+
+- Numpy
+- Pandas
+- Sklearn
+
+```python
+pip install numpy pandas sklearn
+```
